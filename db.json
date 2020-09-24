@@ -1,12 +1,14 @@
-{"user":{
-  "name": "Sathya",
-  "mobile": "9632587410",
-  "id": 1,
-  "dept":"R&D",
-  "company": {
-    "name": "impiger",
-    "location": "coimbatore"
-  }},
-  
-  "company":"impiger"
+{
+	"user": {
+		"name": "Sathya",
+		"mobile": "9632587410",
+		"id": 1,
+		"dept": "R&D",
+		"company": {
+			"name": "impiger",
+			"location": "coimbatore"
+		}
+	},
+
+	"company": "impiger"
 }
